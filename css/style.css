@@ -2,7 +2,11 @@ body {
 	background-color: #03a9f4;
 }
 
-h1,p {
-	font-family: "Roboto", helvetica, sans-serif;
+h1	 {
+	font-family: "Playfair Display", helvetica, sans-serif;
 	color: white;
 }
+
+p	{
+	font-family: "Raleway Light", helvetica, sans-serif;
+}    
