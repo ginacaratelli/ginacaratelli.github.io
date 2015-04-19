@@ -1,0 +1,129 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300);
+
+body {
+	background: #37474f;
+}
+
+img {
+	margin-left: 0px;
+}
+
+
+h1	 {
+	font-family: "Montserrat", Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700px;
+	font-size: 48px;
+	color: white;
+	margin-top: 100px;
+	padding-left: 75px;
+	padding-right: 150px;
+	padding-bottom: 0px;
+}
+
+h2 {
+	font-family: "Montserrat", Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700px;
+	font-size: 13px;
+	padding-left: 75px;
+	color: #90a4ae;
+}
+
+hr {
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0.5em;
+    margin-left: 20px;
+    margin-right: 55px;
+    border-style: inset;
+    border-width: 1px;
+    border-color: white;
+} 
+
+
+p	{
+	font-family: "Roboto", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: #cfd8dc;
+	line-height: 1.5em;
+	padding-left: 75px;
+	padding-right: 150px; 
+}
+
+li	{
+	font-family: "Roboto", Helvetica, sans-serif;
+	color: #8c9eff;
+	font-weight: 400;
+	line-height: 140%;
+}
+
+a	{
+	color: #eeff41;
+	text-decoration: none;
+} 
+
+#title	{
+	font-family: "Roboto", Helvetica, sans-serif;
+	font-size: 15px;
+	padding-top: 75px;
+	color: #eeff41;
+}
+
+#slogan {
+	color: white;
+	font-family: "Lato", Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 56px;
+	line-height: 1.5em;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+#logo {
+	text-align: left;
+	padding-top: 10px;
+	font-family: "Montserrat", Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 18px;
+	color: white;
+	margin-right: 50px;
+	margin-top: 10px;
+	padding-left: 20px;
+}
+
+#name{
+	color: #ff5252;
+}
+
+#graphicdesigner {
+	color: #ffd740;
+}
+
+#webdesigner {
+	color:#69f0ae;
+}
+
+#grandrapids {
+	color: #536dfe;
+}
+
+#contact {
+	text-decoration: underline;
+	color: #536dfe;
+}
+
+ul	{
+	font-family: "Raleway", helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: white;
+	line-height: 140%;
+	padding-top: 5px;
+	padding-left: 75px;
+	padding-right: 150px; 
+}
